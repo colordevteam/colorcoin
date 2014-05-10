@@ -1,0 +1,2 @@
+debian/bin/colorcoind usr/bin
+src/colorcoind usr/lib/colorcoin

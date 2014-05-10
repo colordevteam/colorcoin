@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Colorcoin
+Comment=Colorcoin P2P Cryptocurrency
+Comment[fr]=Colorcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Colorcoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=Colorcoin, una criptomoneda P2P
+Exec=/usr/bin/colorcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/colorcoin;
+Categories=Office;
