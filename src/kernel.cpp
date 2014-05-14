@@ -18,7 +18,7 @@ extern int nStakeTargetSpacing;
 unsigned int nModifierInterval = MODIFIER_INTERVAL;
 
 
-unsigned int nProtocolModifierIntervalChangeSwitchHeight     = 14420;
+unsigned int nProtocolModifierIntervalChangeSwitchHeight     = 10000;
 unsigned int nProtocolModifierIntervalChangeTestSwitchHeight = 100;
 
 bool IsProtocolModifierIntervalChange(unsigned int nBlockHeight)
